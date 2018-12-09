@@ -11,3 +11,7 @@
 /ext/imgclip.o
 /ext/imgclip.so
 /ext/mkmf.log
+/ext/imgclip/Makefile
+/ext/imgclip/imgclip.o
+/ext/imgclip/imgclip.so
+/ext/imgclip/mkmf.log
