@@ -9,4 +9,4 @@ $CFLAGS  << " -W -Wall"
 find_header("gtk/gtk.h") || exit(1)
 
 create_header
-create_makefile("imgclip")
+create_makefile("imgclip/imgclip")
