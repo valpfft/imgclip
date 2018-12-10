@@ -1,6 +1,3 @@
 require "imgclip/version"
-
-module Imgclip
-  class Error < StandardError; end
-  # Your code goes here...
-end
+module Imgclip; end
+require "imgclip/imgclip"
