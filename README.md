@@ -1,4 +1,6 @@
-# Imgclip
+## Imgclip
+
+[![Gem Version](https://badge.fury.io/rb/imgclip.svg)](https://badge.fury.io/rb/imgclip)
 
 A simple gem with a native C extension, that allow storing images from clipboard directly into the file.
 
