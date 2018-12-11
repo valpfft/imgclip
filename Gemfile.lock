@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    imgclip (0.1.1)
+    imgclip (0.1.2)
 
 GEM
   remote: https://rubygems.org/
