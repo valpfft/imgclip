@@ -1,5 +1,9 @@
 ## Imgclip
 
+[![Build Status](https://travis-ci.org/vmikhaliuk/imgclip.svg?branch=master)](https://travis-ci.org/imgclip/imgclip)
+[![Maintainability](https://api.codeclimate.com/v1/badges/41e9fa619f17ff1cec91/maintainability)](https://codeclimate.com/github/vmikhaliuk/imgclip/maintainability)
+[![Coverage Status](https://coveralls.io/repos/github/vmikhaliuk/imgclip/badge.svg?branch=master)](https://coveralls.io/github/vmikhaliuk/imgclip?branch=master)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 [![Gem Version](https://badge.fury.io/rb/imgclip.svg)](https://badge.fury.io/rb/imgclip)
 
 A simple gem with a native C extension, that allow storing images from clipboard directly into the file.
