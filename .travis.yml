@@ -1,0 +1,7 @@
+sudo: false
+language: ruby
+rvm:
+  - 2.5.3
+before_install:
+  -sudo apt-get install -y xclip gtk2.0 pkg-config
+  -gem install bundler -v 1.17.1
